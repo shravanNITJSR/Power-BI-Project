@@ -1,5 +1,4 @@
-# Super Store Power BI Dashboard Project
-
+# Super Store  Dashboard 
 ## Overview
 This   Power BI dashboard project contains tailored specifically for analyzing sales data from a super store. The primary objective of this project is to provide stakeholders with a powerful tool to gain valuable insights into various aspects of the super store's operations, enabling data-driven decision-making and strategic planning.
 
